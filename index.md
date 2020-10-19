@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>穿搭速递</title>
+    <link href="css/style05.css" type="text/css" rel="stylesheet" />
+</head>
 
-You can use the [editor on GitHub](https://github.com/kstea/project5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <div id="header">
+        <ul class="nav">
+            <li class="logo"><img src="images/logo.png" /></li>
+            <li><a href="#">穿搭速递</a></li>
+            <li><a href="#">时尚大片</a></li>
+            <li><a href="#">星着装</a></li>
+            <li><a href="#">时尚圈</a></li>
+            <li><a href="#">时尚专栏</a></li>
+            <li><a href="#">会员/登陆</a></li>
+        </ul>
+    </div>
+    <div id="content">
+        <div class="banner"><img src="images/banner.jpg" /></div>
+        <div class="style_bg">
+            <div class="style">
+                <dl>
+                    <dt class="left1"></dt>
+                    <dd class="left2"><a href="#">明星风尚</a></dd>
+                    <dt class="left3"></dt>
+                    <dd class="left4"><a href="#">时尚博主</a></dd>
+                </dl>
+                <dl>
+                    <dt class="center1"></dt>
+                    <dd class="center2"><a href="#">流行搭配</a></dd>
+                    <dt class="center3"></dt>
+                    <dd class="center4"><a href="#">精选秀场</a></dd>
+                </dl>
+                <dl class="third">
+                    <dt class="right1"></dt>
+                    <dd class="right2"><a href="#">环球街拍</a></dd>
+                </dl>
+            </div>
+        </div>
+        
+</body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kstea/project5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
